@@ -1,3 +1,12 @@
+Fullstack login project, using Next 13 concepts.
+
+Login system using JWT Token doing all the validation through the backend, and saving the token through the browser's cookie with functions of getSideServerProps.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
