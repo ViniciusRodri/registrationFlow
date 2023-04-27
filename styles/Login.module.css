@@ -1,0 +1,17 @@
+.background {
+  background-image: url("/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  gap: 10px;
+}
