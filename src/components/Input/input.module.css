@@ -1,0 +1,11 @@
+.input {
+  background: #dfdfdf;
+  border: 0;
+  color: black;
+  border-radius: 10px;
+  padding: 15px 30px;
+}
+
+.input:active {
+  border: 1px solid green;
+}

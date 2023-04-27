@@ -1,0 +1,15 @@
+.button {
+  border-radius: 10px;
+  padding: 15px 30px;
+  color: white;
+  background: blueviolet;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: white;
+  background: violet;
+  transition: 0.8s ease-in-out;
+}

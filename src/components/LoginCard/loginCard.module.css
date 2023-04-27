@@ -1,0 +1,12 @@
+.card {
+  color: black;
+  padding: 15px;
+  background-color: white;
+  border-radius: 20px;
+  width: 400px;
+  box-shadow: 2px #fff;
+}
+
+.title {
+  text-align: center;
+}
